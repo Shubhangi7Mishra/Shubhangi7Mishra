@@ -2,7 +2,7 @@
 
 👩🏻‍💻Software Engineer sharing about my journey and learnings in tech <br/>
 👩🏻‍🎓Currently pursuing a degree in Artificial Intelligence & Machine Learning <br/>
-💭🍀Planting the seeds of web development. Soon, I'll be crafting beautiful digital gardens!👩🏻‍🌾🌷
+💭🍀Building the foundation of my web development skills 🏗️, laying the groundwork 🚧 for a future of breathtaking digital experiences 🌐!
 
 ![Shubhangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhangi7Mishra&show_icons=true&theme=radical)
 
